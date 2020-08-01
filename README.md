@@ -1,4 +1,4 @@
-# DictAdd
+# Add-dict
 
 A word adding script for dictionaries, will add any chosen word to any line.
 
