@@ -2,7 +2,7 @@
 
 A word adding script for dictionaries, will add any chosen word to any line.
 
-Usage: python3 dictadd.py
+Usage: python3 adddict.py
 
 -f insert txt file (must be in same folder as script)
 
