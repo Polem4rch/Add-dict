@@ -1,5 +1,38 @@
 import argparse
 
+print("               ")
+
+print("Add-dict Rules!")
+
+
+print("  ------ ")
+print("     \   ")
+print("      \  ")
+print("     .ﾊ,,ﾊ")
+print("     ( ﾟωﾟ)")
+print("     |つ  つ")
+print("     |    |")
+print("     |    |")
+print("     |    |")
+print("     |    |")
+print("     |    |")
+print("     |    |")
+print("     |    |")
+print("     |    |")
+print("     |    |")
+print("     |    |")
+print("     |    |")
+print("     |    |")
+print("     |    |")
+print("     |    |")
+print("     |    |")
+print("     |    |")
+print("     |    |")
+print("     |    |")
+print("     U    U ")
+print("        [FILE CREATED]")
+
+
 parser = argparse.ArgumentParser(description='usage: python3 dictadd.py -f txtfile -w new word to append ')
 parser.add_argument('-f')
 parser.add_argument('-w')
