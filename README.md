@@ -11,6 +11,8 @@ python3 adddict.py -f <input_file> -w <> -p <>
 
 -w new word to append into every line
 
+-p a chosen prefix will be added to each word on the file
+
 -h will display the help file
 ```
 
